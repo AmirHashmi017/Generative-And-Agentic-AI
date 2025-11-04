@@ -38,3 +38,6 @@ wikipedia
 
 youtube-transcript-api
 pytube
+
+ddgs
+duckduckgo-search
